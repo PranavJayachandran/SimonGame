@@ -1,0 +1,40 @@
+.btn-red {
+  background-color: red;
+}
+.btn-yellow {
+  background-color: yellow;
+}
+.btn-green {
+  background-color: green;
+}
+.btn-blue {
+  background-color: blue;
+}
+.box {
+  display: inline-block;
+  margin: auto;
+
+  position: relative;
+  height: 200px;
+  width: 200px;
+  border-radius: 20%;
+  border:10px solid black;
+  margin: 10px;
+}
+.boxes {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.heading {
+  color: rgba(233, 233, 7, 0.999);
+  text-align: center;
+  font-size: 50px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+body {
+  background-color: rgb(77, 55, 55);
+}
+.border-yellow{
+    border-color: yellow;
+}
